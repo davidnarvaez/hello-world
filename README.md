@@ -1,2 +1,4 @@
 # hello-world
-Repositorio de prueba
+Test Repository
+
+Esta es la versión 2 del repositorio de Prueba
